@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Structural Design Pattern/composite/ComputerPart/ComputerPart.iml" filepath="$PROJECT_DIR$/Structural Design Pattern/composite/ComputerPart/ComputerPart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DP lab.iml" filepath="$PROJECT_DIR$/.idea/DP lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational Design Pattern/Singleton method/Singleton method.iml" filepath="$PROJECT_DIR$/Creational Design Pattern/Singleton method/Singleton method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational Design Pattern/abtract factory method/animal/animal.iml" filepath="$PROJECT_DIR$/Creational Design Pattern/abtract factory method/animal/animal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational Design Pattern/factory method/animal2/animal2.iml" filepath="$PROJECT_DIR$/Creational Design Pattern/factory method/animal2/animal2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational Design Pattern/prototype method/animal3/animal3.iml" filepath="$PROJECT_DIR$/Creational Design Pattern/prototype method/animal3/animal3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational Design Pattern/abtract factory method/client/client.iml" filepath="$PROJECT_DIR$/Creational Design Pattern/abtract factory method/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational Design Pattern/builder method/computer/computer.iml" filepath="$PROJECT_DIR$/Creational Design Pattern/builder method/computer/computer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational Design Pattern/prototype method/movie/movie.iml" filepath="$PROJECT_DIR$/Creational Design Pattern/prototype method/movie/movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational Design Pattern/builder method/pizza/pizza.iml" filepath="$PROJECT_DIR$/Creational Design Pattern/builder method/pizza/pizza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational Design Pattern/factory method/shape/shape.iml" filepath="$PROJECT_DIR$/Creational Design Pattern/factory method/shape/shape.iml" />
+    </modules>
+  </component>
+</project>

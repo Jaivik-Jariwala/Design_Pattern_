@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DP lab.iml" filepath="$PROJECT_DIR$/.idea/DP lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Creational Design Pattern.iml" filepath="$PROJECT_DIR$/.idea/Creational Design Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton method/Singleton method.iml" filepath="$PROJECT_DIR$/Singleton method/Singleton method.iml" />
       <module fileurl="file://$PROJECT_DIR$/abtract factory method/animal/animal.iml" filepath="$PROJECT_DIR$/abtract factory method/animal/animal.iml" />
       <module fileurl="file://$PROJECT_DIR$/factory method/animal2/animal2.iml" filepath="$PROJECT_DIR$/factory method/animal2/animal2.iml" />

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adapter/AdvanceMediaPlayer/AdvanceMediaPlayer.iml" filepath="$PROJECT_DIR$/Adapter/AdvanceMediaPlayer/AdvanceMediaPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter/BankAccess/BankAccess.iml" filepath="$PROJECT_DIR$/Adapter/BankAccess/BankAccess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composite/Employeedata/Employeedata.iml" filepath="$PROJECT_DIR$/composite/Employeedata/Employeedata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Structural Design Pattern.iml" filepath="$PROJECT_DIR$/.idea/Structural Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/car/car.iml" filepath="$PROJECT_DIR$/Decorator/car/car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/draw/draw.iml" filepath="$PROJECT_DIR$/Facade/draw/draw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composite/draw/draw1.iml" filepath="$PROJECT_DIR$/composite/draw/draw1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flyweight/draw/draw2.iml" filepath="$PROJECT_DIR$/Flyweight/draw/draw2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flyweight/learn/learn.iml" filepath="$PROJECT_DIR$/Flyweight/learn/learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/server-client/server-client.iml" filepath="$PROJECT_DIR$/Facade/server-client/server-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/untitled/untitled.iml" filepath="$PROJECT_DIR$/Decorator/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
